@@ -1,5 +1,4 @@
-# tailwind-first-project
-# My Tailwind Project
+# Tailwind Project
 
 This is my first project using Tailwind CSS.
 
