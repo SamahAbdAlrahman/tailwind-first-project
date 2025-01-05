@@ -11,9 +11,9 @@ module.exports = {
         secBg:'#F9FAFB',
         
       },
-      // fontFamily: {
-      //   Inter: ['Inter', 'sans-serif'],
-      // },
+      fontFamily: {
+        Inter: ['Inter', 'sans-serif'],
+      },
       
     },
   },
